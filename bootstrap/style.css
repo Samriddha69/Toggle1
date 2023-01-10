@@ -1,0 +1,16 @@
+.container{
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+
+}
+.subcontainer{
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    align-items: center;
+    justify-content: center;
+}
